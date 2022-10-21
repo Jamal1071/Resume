@@ -1,0 +1,25 @@
+/*
+*
+* style.css
+* @author - Jamal
+* @date - 21 october 2022
+*/
+
+.info-project {
+    color: #bebebe;
+}
+.title-project h3 {
+    color: #f5f5f5;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
+.project {
+    padding-left: 90px;
+}
+.info-project {
+    list-style: none;
+}
+.info-project li i {
+    font-size: 16px;
+    margin-right: 10px;
+}

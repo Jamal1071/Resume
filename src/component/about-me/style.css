@@ -1,0 +1,38 @@
+/*
+*
+* style.css
+* @author - Jamal
+* @date - 21 october 2022
+*/
+
+.about-me{
+    text-align: left;
+    padding-left: 80px;
+    margin-top: 50px;
+}
+.about-me h2 {
+    color: #eeeeee;
+    font-size: 32px;
+}
+.subtitle {
+    text-align: left;
+    color: #c0c0c0;
+    font-size: 17px;
+}
+.heading {
+    color: #04b4e0;
+}
+.title {
+    color: #04b4e0;
+    font-size: 17px;
+    font-weight: 600;
+}
+.value {
+    color: #a2a2a2;
+    font-size: 16px;
+    font-weight: 600;
+}
+.info-list {
+    list-style-type: none;
+    padding-left: 30px;
+}

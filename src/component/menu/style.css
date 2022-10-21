@@ -1,0 +1,16 @@
+/*
+*
+* style.css
+* @author - Jamal
+* @date - 21 october 2022
+*/
+
+.menu {
+    background-color: #222222;
+    max-width: 95px;
+    padding-top: 20px;
+}
+ul , li {
+    margin: 0;
+    padding: 5px;
+}

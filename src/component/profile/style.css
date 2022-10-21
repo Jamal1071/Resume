@@ -1,0 +1,62 @@
+/*
+*
+* style.css
+* @author - Jamal
+* @date - 21 october 2022
+*/
+
+.profile {
+    background-color: #444444;
+    max-width: 500px;
+    padding: 80px 80px 25px 80px;
+    text-align: center;
+}
+.mt-410 {
+    margin-top: 275px;
+    margin: 275px 0 0 0;
+}
+.header-title {
+    color: #f5f5f5;
+}
+.header-title h2 {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.header-title h4 {
+    color: #a5a5a5;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 10px 0 5px 0;
+}
+.p-clr {
+    color: #878787;
+}
+.fa-brands {
+    color: #ececec;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 0 5px;
+    padding-top: 10px;
+}
+.header-photo img {
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+.btn-container {
+    margin-top: 40px;
+}
+.primary-btn {
+    color: #dadada;
+    font-size: 16px;
+    background-color: #444444;
+    border-radius: 30px;
+    border: 2px solid #dadada;
+    padding: 12px 33px;
+}
+.icon-list {
+    list-style-type: none;
+}
+.icon-list li {
+    display: inline-block;
+}

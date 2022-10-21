@@ -1,0 +1,28 @@
+/*
+*
+* style.css
+* @author - Jamal
+* @date - 21 october 2022
+*/
+
+.menu-list {
+    text-align: left;
+    list-style-type: none;
+    color: #bebebe;
+}
+.menu-list li p {
+    margin-top: 6px;
+    font-size: 13px;
+    text-align: center;
+}
+.menu-list li {
+    border-bottom: 1px solid #2f2f2f;
+    padding-top: 12px;
+}
+.menu-list li i {
+    font-size: 25px;
+    padding-left: 15px;
+}
+.menu-list li i:hover {
+    color: #14677b;
+}
