@@ -4,6 +4,7 @@
 * @author - Jamal
 * @date - 21 october 2022
 */
+import './style.css';
 
 function Card(props) {
     return (
@@ -13,4 +14,5 @@ function Card(props) {
         </div>
     )
 }
+
 export default Card;

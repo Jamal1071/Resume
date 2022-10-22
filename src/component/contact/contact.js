@@ -14,8 +14,8 @@ function Contact() {
             <div class="contact">
                 <h2>Contact</h2>
                 <div class="row">
-                        <Card imgIcon="fa-solid fa-location-dot" title="Chennai"/>
-                        <Card imgIcon="fa-solid fa-phone" title="7530076600"/>
+                        <Card imgIcon="fa-solid fa-location-dot" title="India, Chennai"/>
+                        <Card imgIcon="fa-solid fa-phone" title="+91 7530076600"/>
                         <Card imgIcon="fa-solid fa-envelope" title="mohamedjamal6465@gmail.com"/>
                 </div>
             </div>

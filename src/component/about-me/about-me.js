@@ -7,7 +7,7 @@
 
 import Title from '../title/title';
 import './style.css';
-
+import FieldRow from '../field-row/field-row';
 function AboutMe() {
     return (
         <div class="cell-1 bg-clr">
@@ -25,7 +25,7 @@ function AboutMe() {
                         <ul class="info-list">
                             <li><span class="title">Age </span><span class="value">24</span></li>
                             <li><span class="title">Residence </span><span class="value">Chennai</span></li>
-                            <li><span class="title">Address </span><span class="value">3b Savita manor, Nungambakkam, Chennai</span></li>
+                            <li><span class="title">Address </span><span class="value">Chennai, India</span></li>
                             <li><span class="title">e-mail </span><span class="value">mohamedjamal6465@gmail.com</span></li>
                             <li><span class="title">Phone </span><span class="value">+91 7530076600</span></li>
                         </ul>
@@ -35,4 +35,5 @@ function AboutMe() {
         </div>
     )
 }
+
 export default AboutMe;

@@ -4,7 +4,6 @@
 * @author - Jamal
 * @date - 21 october 2022
 */
-
 import './style.css';
 
 function ProjectDetail(props) {
@@ -17,7 +16,8 @@ function ProjectDetail(props) {
                     <li><i class={props.ImgIcon}></i><a href={props.githuburl}>{props.githuburl}</a></li>
                 </ul>
             </div>
-        </div>    
+        </div>
     )
 }
+
 export default ProjectDetail;

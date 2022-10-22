@@ -49,7 +49,7 @@ function Resume() {
                 </div>
                 <div class="cell-1">
                     <div class="skills-list">
-                        <h3>skills</h3>
+                        <h3>Skills</h3>
                         <ul class="skills">
                             <Chip skill="HTML"/>
                             <Chip skill="CSS"/>
@@ -63,4 +63,5 @@ function Resume() {
         </div>
     )
 }
+
 export default Resume;

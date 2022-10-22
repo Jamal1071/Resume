@@ -12,7 +12,7 @@ function Home() {
     return (
         <div class="cell-1 home">
             <Title label="Mohamed Jamal"/>
-            <h4>Front-end Developer</h4>
+            <h4>Front end Developer</h4>
         </div>
     )
 }

@@ -1,0 +1,16 @@
+.card {
+    background-color: #333333;
+    text-align: center;
+    padding: 20px 50px 20px 50px;
+    margin: 0 6px 0 6px;
+    border: 1px solid #3c3c3c;
+}
+.card h4 {
+    color: #eeeeee;
+    font-size: 15px;
+}
+.card i {
+    color: #05b0db;
+    font-size: 33px;
+    text-align: center;
+}

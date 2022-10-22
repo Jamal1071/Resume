@@ -7,17 +7,20 @@
 
 .info-project {
     color: #bebebe;
+    list-style-type: none;
 }
 .title-project h3 {
     color: #f5f5f5;
     margin-top: 8px;
     margin-bottom: 0;
+    padding-left: 6px;
 }
 .project {
     padding-left: 90px;
 }
 .info-project {
-    list-style: none;
+    color: #bebebe;
+    list-style-type: none;
 }
 .info-project li i {
     font-size: 16px;
