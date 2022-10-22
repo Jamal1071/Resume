@@ -8,6 +8,7 @@
 import Title from '../title/title';
 import './style.css';
 import FieldRow from '../field-row/field-row';
+
 function AboutMe() {
     return (
         <div class="cell-1 bg-clr">

@@ -4,7 +4,6 @@
 * @author - Jamal
 * @date - 21 october 2022
 */
-
 import Title from "../title/title";
 import "./style.css";
 
